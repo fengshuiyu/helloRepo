@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World! 修改HelloWorld项目提交并推送" );
         System.out.println("master");
         System.out.println("bug");
+        System.out.println("bug");
     }
 }
